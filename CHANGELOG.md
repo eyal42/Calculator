@@ -1,1 +1,1 @@
-Initial version of the Calculator project
+Added a dummy feature for int
